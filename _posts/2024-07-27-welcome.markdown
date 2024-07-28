@@ -1,0 +1,26 @@
+## Sobre o Blog
+
+Vou compartilhar com vocês um pouco da minha experiência com algumas ferramentas, mas a ideia central disso será ter um repositório de vários guias para usarmos como referência. Conforme a minha experiência for aumentando, o conteúdo começará a incluir tópicos mais complexos e avançados. Espero que este espaço se torne um recurso valioso para todos nós!
+
+## O Que Esperar?
+
+Neste blog, você encontrará:
+
+- **Guias e Tutoriais**: Passo a passo sobre ferramentas e tecnologias.
+- **Dicas e Truques**: Hacks e conselhos para otimizar seu trabalho e suas ferramentas.
+
+## Conecte-se Conosco
+
+Para não perder nenhuma atualização, siga-me nas redes sociais!
+
+- **LinkedIn**: [Gustavo Martins](https://linkedin.com/in/gustavdlima)
+
+## Fique Ligado
+
+Nosso primeiro post está chegando em breve. 😉
+
+gstv
+
+---
+
+_Se tiver alguma sugestão ou dúvida, sinta-se à vontade para nos enviar uma mensagem._
